@@ -1,5 +1,0 @@
-F:\VS2013Projects\BaseSolution\BaseFramework.Domain\bin\Debug\BaseFramework.Domain.dll
-F:\VS2013Projects\BaseSolution\BaseFramework.Domain\bin\Debug\BaseFramework.Domain.pdb
-F:\VS2013Projects\BaseSolution\BaseFramework.Domain\obj\Debug\BaseFramework.Domain.csprojResolveAssemblyReference.cache
-F:\VS2013Projects\BaseSolution\BaseFramework.Domain\obj\Debug\BaseFramework.Domain.dll
-F:\VS2013Projects\BaseSolution\BaseFramework.Domain\obj\Debug\BaseFramework.Domain.pdb

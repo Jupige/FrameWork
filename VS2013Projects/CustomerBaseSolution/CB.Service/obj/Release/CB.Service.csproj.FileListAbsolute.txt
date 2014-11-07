@@ -1,6 +1,0 @@
-F:\VS2013Projects\ClientDlls\CB.Service.dll.config
-F:\VS2013Projects\ClientDlls\CB.Service.dll
-F:\VS2013Projects\ClientDlls\CB.Service.pdb
-F:\VS2013Projects\CustomerBaseSolution\CB.Service\obj\Release\CB.Service.csprojResolveAssemblyReference.cache
-F:\VS2013Projects\CustomerBaseSolution\CB.Service\obj\Release\CB.Service.dll
-F:\VS2013Projects\CustomerBaseSolution\CB.Service\obj\Release\CB.Service.pdb

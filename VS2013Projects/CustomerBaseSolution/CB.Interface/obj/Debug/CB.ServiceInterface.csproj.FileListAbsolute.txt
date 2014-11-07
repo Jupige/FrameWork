@@ -1,5 +1,0 @@
-F:\VS2013Projects\CustomerBaseSolution\CB.Interface\bin\Debug\CB.Interface.dll
-F:\VS2013Projects\CustomerBaseSolution\CB.Interface\bin\Debug\CB.Interface.pdb
-F:\VS2013Projects\CustomerBaseSolution\CB.Interface\obj\Debug\CB.Interface.dll
-F:\VS2013Projects\CustomerBaseSolution\CB.Interface\obj\Debug\CB.Interface.pdb
-F:\VS2013Projects\CustomerBaseSolution\CB.Interface\obj\Debug\CB.ServiceInterface.csprojResolveAssemblyReference.cache
