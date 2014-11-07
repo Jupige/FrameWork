@@ -1,0 +1,6 @@
+F:\VS2013Projects\CustomerBaseSolution\FrameWorkDll\BaseFramework.Domain.dll
+F:\VS2013Projects\CustomerBaseSolution\FrameWorkDll\BaseFramework.Domain.pdb
+F:\VS2013Projects\BaseSolution\BaseFramework.Domain\obj\Release\BaseFramework.Domain.dll
+F:\VS2013Projects\BaseSolution\BaseFramework.Domain\obj\Release\BaseFramework.Domain.pdb
+F:\VS2013Projects\FrameWorkDll\BaseFramework.Domain.dll
+F:\VS2013Projects\FrameWorkDll\BaseFramework.Domain.pdb

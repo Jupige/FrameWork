@@ -1,0 +1,7 @@
+F:\VS2013Projects\CustomerBaseSolution\CB.Domain\bin\Debug\CustomerBaseSolution.dll
+F:\VS2013Projects\CustomerBaseSolution\CB.Domain\bin\Debug\CustomerBaseSolution.pdb
+F:\VS2013Projects\CustomerBaseSolution\CB.Domain\bin\Debug\BaseFramework.Domain.dll
+F:\VS2013Projects\CustomerBaseSolution\CB.Domain\bin\Debug\BaseFramework.Domain.pdb
+F:\VS2013Projects\CustomerBaseSolution\CB.Domain\obj\Debug\CB.Domain.csprojResolveAssemblyReference.cache
+F:\VS2013Projects\CustomerBaseSolution\CB.Domain\obj\Debug\CustomerBaseSolution.dll
+F:\VS2013Projects\CustomerBaseSolution\CB.Domain\obj\Debug\CustomerBaseSolution.pdb

@@ -1,0 +1,5 @@
+F:\VS2013Projects\FrameWorkDll\BaseFramework.Persistence.dll
+F:\VS2013Projects\FrameWorkDll\BaseFramework.Persistence.pdb
+F:\VS2013Projects\BaseSolution\BaseFramework.Persistence\obj\Release\BaseFramework.Persistence.csprojResolveAssemblyReference.cache
+F:\VS2013Projects\BaseSolution\BaseFramework.Persistence\obj\Release\BaseFramework.Persistence.dll
+F:\VS2013Projects\BaseSolution\BaseFramework.Persistence\obj\Release\BaseFramework.Persistence.pdb
