@@ -1,0 +1,9 @@
+F:\VS2013Projects\CustomerBaseSolution\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\VS2013Projects\CustomerBaseSolution\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\VS2013Projects\CustomerBaseSolution\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\VS2013Projects\CustomerBaseSolution\ConsoleApplication1\bin\Debug\EntityFramework.dll
+F:\VS2013Projects\CustomerBaseSolution\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+F:\VS2013Projects\CustomerBaseSolution\ConsoleApplication1\bin\Debug\EntityFramework.xml
+F:\VS2013Projects\CustomerBaseSolution\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+F:\VS2013Projects\CustomerBaseSolution\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\VS2013Projects\CustomerBaseSolution\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
